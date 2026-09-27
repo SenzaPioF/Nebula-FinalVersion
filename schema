@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "NEBULA",
+  "description": "Assistente vocale IA interattivo",
+  "url": "https://[USERNAME].github.io/Nebula-FinalVersion/",
+  "applicationCategory": "Productivity",
+  "offers": {"@type": "Offer", "price": "0"}
+}
+</script>
