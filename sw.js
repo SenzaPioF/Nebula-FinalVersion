@@ -1,4 +1,4 @@
-const CACHE = 'nebula-v14';
+const CACHE = 'nebula-v16';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
